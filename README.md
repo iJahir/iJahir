@@ -86,19 +86,27 @@ Backend development and business logic implementation.
 - SQL
 - REST APIs
 
-### 🔄 ETL Data Pipeline
 
-Data extraction, transformation and loading processes for structured information management.
 
 ---
 
-## 📊 GitHub Stats
+## 🏆 Core Skills
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iJahir&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iJahir&layout=compact&theme=tokyonight&cache_seconds=1800"/>
-</p>
+☕ Java
 
+🍃 Spring Boot
+
+🗄️ MySQL & PostgreSQL
+
+🌐 REST APIs
+
+🅰️ Angular
+
+📱 Flutter
+
+⚡ JavaScript
+
+🔧 Git & GitHub
 ---
 
 ## 📫 Connect With Me
