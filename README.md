@@ -94,9 +94,9 @@ Data extraction, transformation and loading processes for structured information
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iJahir&show_icons=true&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ijahir&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iJahir&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ijahir&layout=compact&theme=tokyonight)
 
 ---
 
