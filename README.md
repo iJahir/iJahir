@@ -1,6 +1,6 @@
 # Hi, I'm Aldo Jahir 👋
 
-💻 Backend Developer in Training  
+ 💻 Java Backend Developer
 🎓 Systems Engineering Student  
 📍 El Salvador
 
@@ -15,7 +15,7 @@ Passionate about software development and backend engineering. I enjoy building 
 - 🔭 Currently working on backend and full-stack projects
 - 🌱 Learning Software Architecture, Spring Boot and Cloud Technologies
 - 💡 Interested in Backend Development, APIs and Enterprise Systems
-- 🎯 Goal: Become a professional Backend Engineer
+- 🎯 Focused on Backend Development, Software Architecture and REST APIs
 
 ---
 
@@ -94,9 +94,10 @@ Data extraction, transformation and loading processes for structured information
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ijahir&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ijahir&layout=compact&theme=tokyonight)
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iJahir&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iJahir&layout=compact&theme=tokyonight&cache_seconds=1800"/>
+</p>
 
 ---
 
@@ -110,4 +111,4 @@ Data extraction, transformation and loading processes for structured information
 
 ---
 
-⭐ Always learning, always building.
+🚀 Building scalable software solutions with Java and Spring Boot.
